@@ -1,10 +1,13 @@
 ---
 # title: My Site
 toc: false
+layout: hextra-home
 ---
+{{< hextra/hero-headline >}} Hello visitor
+here i post things i am working on{{< /hextra/hero-headline >}}
 
-# Hello visitor
-Hope you are well, here i will be posting the things i am working on!
+{{< hextra/hero-subtitle >}} Fast, batteries-included Hugo theme 
+for creating beautiful static websites {{< /hextra/hero-subtitle >}}
 
 ## Explore
 
