@@ -5,5 +5,4 @@ prev: /
 next: docs/folder/
 ---
 
-A simple demo page.
-
+This is a new page

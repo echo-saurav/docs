@@ -3,7 +3,8 @@ title: My Site
 toc: false
 ---
 
-This is the landing page.
+# Hello visitor
+Hope you are well, here i will be posting the things i am working on!
 
 ## Explore
 
