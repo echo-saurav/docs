@@ -1,5 +1,5 @@
 ---
-title: My Site
+# title: My Site
 toc: false
 ---
 
@@ -11,6 +11,11 @@ Hope you are well, here i will be posting the things i am working on!
 {{< cards >}}
   {{< card link="docs" title="Docs" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
+{{< /cards >}}
+{{< cards >}}
+  {{< card link="/" title="Image Card" image="https://source.unsplash.com/featured/800x600?landscape" subtitle="Unsplash Landscape" >}}
+  {{< card link="/" title="Local Image" image="/images/card-image-unprocessed.jpg" subtitle="Raw image under static directory." >}}
+  {{< card link="/" title="Local Image" image="images/space.jpg" subtitle="Image under assets directory, processed by Hugo." method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
 
 ## Documentation
