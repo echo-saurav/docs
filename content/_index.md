@@ -37,7 +37,7 @@ Here some of the projects i have worked on
     title="Health tracker"
     subtitle="You can login with google and access all your health data in beautiful charts"
     class="aspect-auto md:aspect-[1.1/1] max-md:min-h-[340px]"
-    image="images/hextra-search.webp"
+    image="images/hextra-doc.webp"
     imageClass="top-[40%] left-[36px] w-[110%] sm:w-[110%] dark:opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -57,7 +57,7 @@ Here some of the projects i have worked on
     title="Snapcheez"
     subtitle="A food social media using firebase. It has chat, notification, image upload, firebase function calling etc"
     class="aspect-auto md:aspect-[1.1/1] max-lg:min-h-[340px]"
-    image="images/hextra-markdown.webp"
+    image="images/hextra-doc.webp"
     imageClass="top-[40%] left-[36px] w-[180%] sm:w-[110%] dark:opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -66,7 +66,7 @@ Here some of the projects i have worked on
     title="Obsidian AI suggestion"
     subtitle="It shows related notes using AI (vector database) so user can easily see related notes to take better note in obsidian"
     class="aspect-auto md:aspect-[1.1/1] max-lg:min-h-[340px]"
-    image="images/hextra-markdown.webp"
+    image="images/hextra-doc.webp"
     imageClass="top-[40%] left-[36px] w-[180%] sm:w-[110%] dark:opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -75,7 +75,7 @@ Here some of the projects i have worked on
     title="Homeserver"
     subtitle="I manage a server in my home, where i use docker to selfhost many service like , jellyfin (media server) , nginx etc"
     class="aspect-auto md:aspect-[1.1/1] max-lg:min-h-[340px]"
-    image="images/hextra-markdown.webp"
+    image="images/hextra-doc.webp"
     imageClass="top-[40%] left-[36px] w-[180%] sm:w-[110%] dark:opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -85,7 +85,7 @@ Here some of the projects i have worked on
     title="Bookish"
     subtitle="This is a book /pdf reader that you can host in server, I made this using python flask and OCR. I used to scroll a lot on my mobile, so i try to make a service where i can read book in mobile easily"
     class="aspect-auto md:aspect-[1.1/1] max-lg:min-h-[340px]"
-    image="images/hextra-markdown.webp"
+    image="images/hextra-doc.webp"
     imageClass="top-[40%] left-[36px] w-[180%] sm:w-[110%] dark:opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(42,173,34,0.15),hsla(0,0%,100%,0));"
   >}}
