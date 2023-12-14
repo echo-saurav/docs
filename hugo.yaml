@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: echo-saurav
 
 # import hextra as module
 module:
@@ -18,30 +18,42 @@ markup:
 
 menu:
   main:
+    - name: Projects
+      pageRef: /docs/projects
+      weight: 1
     - name: Docs
       pageRef: /docs
-      weight: 1
+      weight: 2
     - name: About
       pageRef: /about
-      weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
       weight: 3
-    - name: Search
-      weight: 4
-      params:
-        type: search
+    # - name: Contact ↗
+    #   url: "https://github.com/echo-saurav"
+    #   weight: 3
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/echo-saurav"
       params:
         icon: github
     - name: Twitter
       weight: 6
-      url: "https://twitter.com/"
+      url: "https://twitter.com/FaysalSaurav"
       params:
         icon: x-twitter
-
+    - name: Instagram
+      weight: 7
+      url: "https://www.instagram.com/echo_saurav/"
+      params:
+        icon: instagram
+    - name: Youtube
+      weight: 8
+      url: "https://youtube.com/@pixelbyte-jo2xy?si=ekAk_l8zgR-YF2Kj"
+      params:
+        icon: youtube
+    - name: Search
+      weight: 9
+      params:
+        type: search
 params:
   navbar:
     displayTitle: true
@@ -51,6 +63,6 @@ params:
     displayCopyright: false
     displayPoweredBy: true
 
-  editURL:
-    enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+  # editURL:
+  #   enable: true
+  #   base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
